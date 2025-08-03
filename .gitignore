@@ -1,0 +1,70 @@
+# Prerequisites
+*.d
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# debug information files
+*.dwo
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.dSYM
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Qt Creator
+*.pro.user
+*.qmake.stash
+
+# Visual Studio Code
+.vscode/
+
+# Ignore build and bin folders
+build/
+bin/
+
+# Other temporary files
+*~
+*.swp
+*.tmp
+.DS_Store
+
